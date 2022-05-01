@@ -1,1 +1,7 @@
-package golang_with_nana
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print("Hello World!")
+}
